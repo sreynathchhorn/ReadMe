@@ -71,10 +71,9 @@ A web-based resume and job application portal.
 
 - GitHub: [@sreynathchhorn](https://github.com/sreynathchhorn)
 - Facebook: https://www.facebook.com
-- Telegram : 0887178600
 - IG : https://www.instagram.com/justznathh
+- Telegram : 0887178600
 ---
-
 <div align="center">
 
 ⭐ Thanks for visiting my profile! 
