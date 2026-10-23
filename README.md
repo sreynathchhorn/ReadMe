@@ -13,6 +13,8 @@ I build responsive websites and web applications using modern technologies.
 
 <div align="center">
 
+---
+
 # 💻 Technical Skills
 
 *Technologies and tools I use to build modern web applications.*
@@ -37,6 +39,29 @@ I build responsive websites and web applications using modern technologies.
 
 
 ## 👨‍💻 About Me
+---
+
+
+<div align="center">
+
+## 🎓 Technical Skills & Training
+
+*Continuous learning. Practical development. Professional growth.*
+
+<br>
+
+| Training & Development | Achievement |
+|:---:|:---:|
+| 💻 **C++ Fundamentals** | ✅ Completed |
+| 🎨 **Frontend Development** | ✅ Completed |
+| ⚙️ **Backend Development with Laravel** | ✅ Completed |
+| ☕ **Backend Development with Spring Boot** | 🏆 100% Scholarship Program |
+| 🚀 **Backend Development Internship** | 🔄 In Progress |
+
+<br>
+
+</div>
+
 
 - 🌱 Continuously learning web development
 - 🎨 Interested in responsive and modern UI design
