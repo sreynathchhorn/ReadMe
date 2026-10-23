@@ -41,13 +41,21 @@ I build responsive websites and web applications using modern technologies.
 
 <br>
 
+
+<div align="center">
+
+## 🎓 Training & Development
+
 | Training & Development | Achievement |
 |:---:|:---:|
 | 💻 **C++ Fundamentals** | ✅ Completed |
+| 🌐 **JavaScript Fundamentals** | ✅ Completed |
 | 🎨 **Frontend Development** | ✅ Completed |
-| ⚙️ **Backend Development with Laravel** | ✅ Completed  100% Scholarship Program 🏆 |
-| ☕ **Backend Development with Spring Boot** |✅ Completed 100% Scholarship Program 🏆  |
-| 🚀 **Backend Development Internship** | 🔄 In Progress |
+| 🔴 **Backend Development with Laravel** | 🏆 Completed · 100% Scholarship |
+| ☕ **Backend Development with Spring Boot** | 🏆 Completed · 100% Scholarship |
+| 💼 **Backend Development Internship** | 🔄 In Progress |
+
+</div>
 
 <div align="center">
 
