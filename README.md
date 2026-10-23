@@ -78,22 +78,3 @@ A web-based resume and job application portal.
 
 </div>
 
-## 🛠️ Languages & Technologies
-
-<div align="center">
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="HTML CSS JavaScript Bootstrap Tailwind CSS" />
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP Laravel MySQL" />
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
-
-</div>
-
----
