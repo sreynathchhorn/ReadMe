@@ -13,8 +13,6 @@ I build responsive websites and web applications using modern technologies.
 
 <div align="center">
 
----
-
 # 💻 Technical Skills
 
 *Technologies and tools I use to build modern web applications.*
@@ -33,11 +31,8 @@ I build responsive websites and web applications using modern technologies.
 
 </div>
 
-
 ## 👨‍💻 About Me
 ---
-
-
 <div align="center">
 
 ## 🎓 Technical Skills & Training
@@ -54,31 +49,7 @@ I build responsive websites and web applications using modern technologies.
 | ☕ **Backend Development with Spring Boot** |✅ Completed 100% Scholarship Program 🏆  |
 | 🚀 **Backend Development Internship** | 🔄 In Progress |
 
-
 <div align="center">
-
-## 💼 Professional Experience & Projects
-
-### 🎓 Technical Training
-C++ Fundamentals · Frontend Development · Laravel Backend Development
-
-### 🏆 Scholarship Achievement
-**Spring Boot Backend Development**
-<br>
-100% Scholarship Program
-
-### 💻 Internship Experience
-**Backend Development Internship**
-<br>
-Practical experience in backend development and application workflows.
-
-### 🚀 MNC Resume Studio
-A web-based resume and job application management platform built to simplify the recruitment process.
-
-**Key Features**
-- 👤 User Profiles & Resume Management
-- 💼 Job Discovery & Application Tracking
-- 📊 Admin Dashboard & Application Management
 
 **Technology Stack**
 
