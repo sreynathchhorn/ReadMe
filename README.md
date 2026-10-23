@@ -19,8 +19,6 @@ I build responsive websites and web applications using modern technologies.
 
 *Technologies and tools I use to build modern web applications.*
 
----
-
 ### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=light" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React" />
@@ -32,8 +30,6 @@ I build responsive websites and web applications using modern technologies.
 ### 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, Visual Studio Code" />
-
----
 
 </div>
 
@@ -54,33 +50,54 @@ I build responsive websites and web applications using modern technologies.
 |:---:|:---:|
 | 💻 **C++ Fundamentals** | ✅ Completed |
 | 🎨 **Frontend Development** | ✅ Completed |
-| ⚙️ **Backend Development with Laravel** | ✅ Completed |
-| ☕ **Backend Development with Spring Boot** | 🏆 100% Scholarship Program |
+| ⚙️ **Backend Development with Laravel** | ✅ Completed  100% Scholarship Program 🏆 |
+| ☕ **Backend Development with Spring Boot** |✅ Completed 100% Scholarship Program 🏆  |
 | 🚀 **Backend Development Internship** | 🔄 In Progress |
+
+
+<div align="center">
+
+## 💼 Professional Experience & Projects
+
+### 🎓 Technical Training
+C++ Fundamentals · Frontend Development · Laravel Backend Development
+
+### 🏆 Scholarship Achievement
+**Spring Boot Backend Development**
+<br>
+100% Scholarship Program
+
+### 💻 Internship Experience
+**Backend Development Internship**
+<br>
+Practical experience in backend development and application workflows.
+
+### 🚀 MNC Resume Studio
+A web-based resume and job application management platform built to simplify the recruitment process.
+
+**Key Features**
+- 👤 User Profiles & Resume Management
+- 💼 Job Discovery & Application Tracking
+- 📊 Admin Dashboard & Application Management
+
+**Technology Stack**
+
+`React` · `Laravel` · `PHP` · `MySQL` · `REST API`
+
+<br>
+
+[Explore My GitHub Repositories](https://github.com/sreynathchhorn?tab=repositories)
+
+</div>
 
 <br>
 
 </div>
 
-
 - 🌱 Continuously learning web development
 - 🎨 Interested in responsive and modern UI design
 - 💻 Building projects with frontend and backend technologies
 - 🚀 Working toward becoming a professional software developer
-
-## 🚀 Featured Project
-
-### MNC Resume Studio
-
-A web-based resume and job application portal.
-
-- User profiles and resume management
-- Job browsing and application tracking
-- Admin dashboard and application management
-
-**Tech Stack:** HTML · CSS · JavaScript · Bootstrap · Tailwind CSS · React · Laravel · MySQL
-
-[Explore My Repositories](https://github.com/sreynathchhorn?tab=repositories)
 
 ## 📊 GitHub Statistics
 
