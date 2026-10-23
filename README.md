@@ -3,46 +3,58 @@
 
 # Hi, I'm Sreynath 👋
 
-## 💻 Aspiring Full-Stack Developer
+### 💻 Aspiring Full-Stack Developer
 
-I build responsive websites and web applications using modern technologies.
+Building responsive websites and web applications with modern technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sreynathchhorn-181717?style=for-the-badge&logo=github)](https://github.com/sreynathchhorn)
 
 </div>
 
+---
+
 <div align="center">
 
-# 💻 Technical Skills
+## 💻 Technical Skills
 
 *Technologies and tools I use to build modern web applications.*
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=light" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React" />
 
-## ⚙️ Backend Development & Database
+### ⚙️ Backend Development & Database
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=light" alt="PHP, Laravel, MySQL" />
 
-## 🛠️ Development Tools
+### 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, Visual Studio Code" />
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+- 💻 Aspiring full-stack developer passionate about web development.
+- 🎨 Interested in building responsive, user-friendly interfaces.
+- ⚙️ Learning to develop backend services and database-driven applications.
+- 🚀 Improving my skills through technical training and practical projects.
+- 🎯 Working toward becoming a professional software developer.
+
+---
+
 <div align="center">
-                                       # 👨‍💻 About Me
-## 🎓 Education 🏆
+
+## 🎓 Training & Development
 
 *Continuous learning. Practical development. Professional growth.*
 
-<div align="center">
-
-# 🎓 Training & Development
+</div>
 
 | Training & Development | Achievement |
-|:---:|:---:|
+|:---|:---:|
 | 💻 **C++ Fundamentals** | ✅ Completed |
 | 🌐 **JavaScript Fundamentals** | ✅ Completed |
 | 🎨 **Frontend Development** | ✅ Completed |
@@ -50,10 +62,9 @@ I build responsive websites and web applications using modern technologies.
 | ☕ **Backend Development with Spring Boot** | 🏆 Completed · 100% Scholarship |
 | 💼 **Backend Development Internship** | 🔄 In Progress |
 
-</div>
+---
 
 <div align="center">
-
 **Technology Stack**
 
 `React` · `Laravel` · `PHP` · `MySQL` · `REST API`
