@@ -11,12 +11,6 @@ I build responsive websites and web applications using modern technologies.
 
 </div>
 
----
-
-
----
-
-
 <div align="center">
 
 # 💻 Technical Skills
@@ -76,13 +70,13 @@ A web-based resume and job application portal.
 ## 📫 Connect With Me
 
 - GitHub: [@sreynathchhorn](https://github.com/sreynathchhorn)
-- LinkedIn: Add your profile link
-- Portfolio: Add your website link
-
+- Facebook: https://www.facebook.com
+- Telegram : 0887178600
+- IG : https://www.instagram.com/justznathh
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! 
 
 </div>
