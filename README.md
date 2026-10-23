@@ -77,4 +77,3 @@ A web-based resume and job application portal.
 ⭐ Thanks for visiting my profile!
 
 </div>
-
