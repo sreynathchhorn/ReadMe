@@ -3,7 +3,7 @@
 
 # Hi, I'm Sreynath 👋
 
-### 💻 Aspiring Full-Stack Developer
+## 💻 Aspiring Full-Stack Developer
 
 I build responsive websites and web applications using modern technologies.
 
@@ -17,34 +17,29 @@ I build responsive websites and web applications using modern technologies.
 
 *Technologies and tools I use to build modern web applications.*
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=light" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React" />
 
-### ⚙️ Backend Development & Database
+## ⚙️ Backend Development & Database
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=light" alt="PHP, Laravel, MySQL" />
 
-### 🛠️ Development Tools
+## 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, Visual Studio Code" />
 
 </div>
 
-## 👨‍💻 About Me
----
 <div align="center">
-
-## 🎓 Technical Skills & Training
+                                       # 👨‍💻 About Me
+## 🎓 Education 🏆
 
 *Continuous learning. Practical development. Professional growth.*
 
-<br>
-
-
 <div align="center">
 
-## 🎓 Training & Development
+# 🎓 Training & Development
 
 | Training & Development | Achievement |
 |:---:|:---:|
@@ -69,8 +64,6 @@ I build responsive websites and web applications using modern technologies.
 
 </div>
 
-<br>
-
 </div>
 
 - 🌱 Continuously learning web development
@@ -94,7 +87,7 @@ I build responsive websites and web applications using modern technologies.
 - Facebook: https://www.facebook.com
 - IG : https://www.instagram.com/justznathh
 - Telegram : 0887178600
----
+
 <div align="center">
 
 ⭐ Thanks for visiting my profile! 
