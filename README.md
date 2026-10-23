@@ -16,24 +16,31 @@ I build responsive websites and web applications using modern technologies.
 
 ---
 
-## 💻 Technical Skills
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=light" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React" />
-</p>
+<div align="center">
 
-### Backend Development & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=light" alt="PHP, Laravel, MySQL" />
-</p>
+# 💻 Technical Skills
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, Visual Studio Code" />
-</p>
+*Technologies and tools I use to build modern web applications.*
 
 ---
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=light" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React" />
+
+### ⚙️ Backend Development & Database
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=light" alt="PHP, Laravel, MySQL" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, Visual Studio Code" />
+
+---
+
+</div>
+
 
 ## 👨‍💻 About Me
 
